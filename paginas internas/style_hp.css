@@ -149,10 +149,12 @@ footer a:hover{
     text-decoration: underline;
     color: var(--cor1);
 }
-iframe{
-    font-family: var(--fonte1);
+article>iframe{
     border: 1px solid black;
     display: block;
     height: 400px;
     width: 600px;
+}
+article>iframe>p{
+    font-family: var(--fonte1);
 }
