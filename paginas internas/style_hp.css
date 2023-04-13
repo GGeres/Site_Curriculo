@@ -154,6 +154,7 @@ article>iframe{
     display: block;
     height: 400px;
     width: 40vw;
+    margin: auto;
 }
 article>iframe>p{
     font-family: var(--fonte1);
