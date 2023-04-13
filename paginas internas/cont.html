@@ -7,6 +7,7 @@
     <link rel="shortcut icon" href="../imagens/favicon.ico" type="image/x-icon">
     <title>Contatos</title>
     <link rel="stylesheet" href="estilos_cont/style_cont.css">
+    <link rel="stylesheet" href="estilos_cont/style_phone.css" media="screen and (max-width: 992px)">
 </head>
 <body onload="carregar()">
     <script src="cont.js"></script>
@@ -44,7 +45,10 @@
             <p>
                 <ul>+55 (11) 99521-7041</ul>
             </p>
-            <p><img src="../imagens/contatos.png" alt="Contatos"></p>
+            <picture>
+                <source media="(min-width: 1000px)" srcset="../imagens/contatos.png">
+                <img src="../imagens/contatos_menor.png" alt="Contatos">
+            </picture>
         </article>
     </main>
     <footer>
