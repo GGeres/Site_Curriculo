@@ -1,4 +1,3 @@
-# modelo-vitrinedev
 # Site de Apresentação
 
 Esse site foi criado com a ideia de expor minhas habilidades
@@ -13,7 +12,7 @@ e programação
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](blob:https://web.whatsapp.com/cfa39abf-ce4f-4a1e-b1ed-dfdcd356f8f9#vitrinedev)
+![](blob:https://web.whatsapp.com/cfa39abf-ce4f-4a1e-b1ed-dfdcd356f8f9) #vitrinedev
 
 ## Detalhes do projeto
 
