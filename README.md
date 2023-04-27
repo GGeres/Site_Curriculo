@@ -12,7 +12,7 @@ e programação
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](C:\Users\gusta\Downloads\WhatsApp Image 2023-04-27 at 19.13.06 (1).jpeg) #vitrinedev
+![](https://github.com/GGeres/Site_Curriculo/blob/main/imagens/FotoREAD.jpeg?raw=true) #vitrinedev
 
 ## Detalhes do projeto
 
