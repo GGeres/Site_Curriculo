@@ -12,7 +12,7 @@ e programação
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](blob:https://web.whatsapp.com/cfa39abf-ce4f-4a1e-b1ed-dfdcd356f8f9) #vitrinedev
+![](C:\Users\gusta\Downloads\WhatsApp Image 2023-04-27 at 19.13.06 (1).jpeg) #vitrinedev
 
 ## Detalhes do projeto
 
